@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #409b61;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="256" cy="256" r="250.95"/>
+  <path class="cls-2" d="M359.42,336.15c-20.9-20.85-41.8-41.69-62.7-62.55l-113.84,113.84-61.03-61.03,113.78-113.78c-20.74-20.69-41.48-41.37-62.21-62.07,62.01-.05,124-.11,186-.16,0,61.91,0,123.82,0,185.73Z"/>
+</svg>
