@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 501.9 501.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #b85555;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="250.95" cy="250.95" r="250.95"/>
+  <circle class="cls-1" cx="250.95" cy="250.95" r="235"/>
+  <path class="cls-2" d="m168.58,352.16c20.85-20.9,41.69-41.8,62.55-62.7l-113.84-113.84,61.03-61.03,113.78,113.78c20.69-20.74,41.37-41.48,62.07-62.21.05,62.01.11,124,.16,186h-185.75Z"/>
+</svg>
