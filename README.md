@@ -15,6 +15,14 @@
 
 
 ## Ziel Prioritäten Icons
+### Lightmode
+1. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/1_blue.svg
+2. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/2_blue.svg
+3. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/3_blue.svg
+4. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/4_blue.svg
+5. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/5_blue.svg
+6. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/6_blue.svg
+
 ### Darkmode
 1. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/1_blue_darkmode.svg
 2. https://raw.githubusercontent.com/ZDF-Digital-Analytics/foko/refs/heads/main/2_blue_darkmode.svg
